@@ -1,0 +1,14 @@
+/* Cambia el color del texto si el atributo title comienza con "Guía" */
+a[title^='Guía'] {
+    color: blue;
+}
+
+/* Aplica negrita si el atributo title termina en "CSS" */
+a[title$='CSS'] {
+    font-weight: bold;
+}
+
+/* Subraya el texto si el atributo title contiene "Tutorial" */
+a[title*='Tutorial'] {
+    text-decoration: underline;
+}
