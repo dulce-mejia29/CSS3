@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MiFuente';
+    src: url('MiFuente.woff2') format('woff2'),
+         url('MiFuente.woff') format('woff');
+}
+
+body {
+    font-family: 'MiFuente', sans-serif;
+    font-size-adjust: 0.5;
+}
