@@ -37,7 +37,7 @@ A medida que avanzo en este libro y analizo cada uno de los diferentes módulos,
 
 Cuando un documento propuesto se acepta por primera vez como parte de CSS3, su estado se denomina Borrador de trabajo. Este estado significa que el documento ha sido publicado y ahora está listo para ser revisado por la comunidad; en este caso, la comunidad está compuesta por fabricantes de navegadores, grupos de trabajo y otras partes interesadas. Un documento puede permanecer como borrador de trabajo durante un largo período y sufrir muchas revisiones. No todos los documentos superan este nivel de estado y un documento puede volver a este estado en muchas ocasiones.
 
-# presentando la sintaxis
+## presentando la sintaxis
 
 utilizo cierta convención sintáctica para demostrar cada una de las nuevas reglas y propiedades. Se parece a esto:
 ````
