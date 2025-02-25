@@ -2,18 +2,18 @@
     column-count: 3;  
     column-gap: 20px;  
     column-rule: 2px solid gray;  
-    width: 80%;  
     margin: auto;  
+    width: 80%;  
 }
 
 h2 {
     column-span: all;
-    text-align: center;
     margin-bottom: 10px;
+    text-align: center;
 }
 
 img {
-    max-width: 100%;
     display: block;
+    max-width: 100%;
     margin: auto;
 }
