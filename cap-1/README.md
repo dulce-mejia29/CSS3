@@ -50,20 +50,19 @@ A continuación, tienes la propiedad en sí; En este caso, he usado una propieda
 Si una propiedad acepta varios valores, enumeraré cada uno con un alias único.
 
 Entonces, una nueva propiedad que requiere tres valores podría definirse así:
-````
+
 E { propiedad: primero segundo tercero; }
-````
+
 
 Presentando CSS3 5
 
 Dicho todo esto, supongamos que tenemos una nueva propiedad llamada monos (siempre he querido una propiedad de monos), que acepta solo un valor único. Usando la sintaxis de este libro, lo presentaría así:
 ````
 E { monos: valor; }
-````
 Y cuando llegara el momento de proporcionar un ejemplo práctico, podría mostrarlo con un valor válido (digamos, un valor numérico) como este:
 ````
 mi { monos: 12; }
-````
+
 
 # Prefijos de proveedores
 
