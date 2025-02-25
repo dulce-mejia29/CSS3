@@ -1,9 +1,9 @@
 /* Pseudo-elementos */
 p::first-letter {
+    color: blue;
     font-size: 2em;
     font-weight: bold;
-    color: blue;
-}
+
 
 p::first-line {
     text-transform: uppercase;
