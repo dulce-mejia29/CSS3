@@ -1,4 +1,4 @@
-# IntroducIng cSS3
+# Introducing cSS3
 Al principio solo nos da a conocer y explicar la historia de CSS3 y un poco de como funciona
 
 **¿Que es CSS3 y como funciona?**
