@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Pseudo-clases y Pseudo-elementos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Pseudo-clases y Pseudo-elementos en CSS3</h1>
+
+    <p>Este es un párrafo con una <a href="#">palabra enlazada</a> para demostrar estilos de interacción.</p>
+
+    <p>Otro párrafo con <span class="resaltado">texto resaltado</span> que usa pseudo-elementos.</p>
+
+    <ul>
+        <li>Primer elemento</li>
+        <li>Segundo elemento</li>
+        <li>Tercer elemento</li>
+        <li>Cuarto elemento</li>
+    </ul>
+
+    <input type="text" placeholder="Escribe aquí...">
+
+</body>
+</html>

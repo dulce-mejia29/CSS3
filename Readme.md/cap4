@@ -1,0 +1,24 @@
+# RESUMEN DEL CAPITULO 4
+
+El cuarto capítulo del documento trata sobre **Pseudo-clases y Pseudo-elementos** en CSS3. Explica cómo estos selectores permiten aplicar estilos en función de estados o partes específicas de los elementos sin necesidad de modificar el HTML. 
+
+**Pseudo-clases y Pseudo-elementos**  
+
+**Pseudo-clases**  
+Son selectores que aplican estilos según el estado o la posición de un elemento dentro del documento. Ejemplos clave:  
+- `:hover`, `:visited`, `:active` – para estados de enlaces.  
+- `:first-child`, `:last-child`, `:nth-child(n)` – para seleccionar elementos en función de su posición.  
+- `:only-child`, `:only-of-type` – aplican estilos a elementos sin hermanos o sin hermanos del mismo tipo.  
+- `:target` – destaca un elemento referenciado en una URL.  
+- `:empty` – selecciona elementos sin contenido.  
+- `:root` – apunta al elemento raíz (`<html>` en HTML).  
+- `:not(selector)` – excluye elementos específicos.  
+- `:checked`, `:disabled`, `:enabled` – para formularios y controles de usuario.  
+
+**Pseudo-elementos**  
+Permiten aplicar estilos a partes específicas del contenido de un elemento. Se diferencian de las pseudo-clases por usar `::` en CSS3:  
+- `::first-line` y `::first-letter` – estilizan la primera línea o letra de un texto.  
+- `::before` y `::after` – insertan contenido antes o después de un elemento.  
+- `::selection` – cambia la apariencia del texto seleccionado por el usuario.  
+
+Estos selectores permiten una mayor flexibilidad sin alterar la estructura HTML, mejorando la separación entre contenido y presentación.
