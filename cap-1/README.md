@@ -60,8 +60,8 @@ Dicho todo esto, supongamos que tenemos una nueva propiedad llamada monos (siemp
 ````
 E { monos: valor; }
 Y cuando llegara el momento de proporcionar un ejemplo práctico, podría mostrarlo con un valor válido (digamos, un valor numérico) como este:
-````
 mi { monos: 12; }
+````
 
 
 # Prefijos de proveedores
