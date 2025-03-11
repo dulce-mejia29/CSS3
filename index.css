@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.caja {
+    width: 150px;
+    height: 150px;
+    background-color: #3498db;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 1s ease-in-out;
+    animation: movimiento 3s infinite alternate;
+}
+
+.caja:hover {
+    background-color: #e74c3c;
+}
+
+@keyframes movimiento {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(100px); }
+}
