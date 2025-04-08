@@ -1,8 +1,8 @@
 .container {
-    padding: 20px;
     background-color: rgba(255, 165, 0, 0.6); /* Naranja semitransparente */
     border: 3px solid currentColor;
     color: #333;
+    padding: 20px;
 }
 
 h2 {
@@ -13,6 +13,6 @@ h2 {
 .button {
     background-color: hsla(120, 100%, 30%, 0.8); /* Verde oscuro semitransparente */
     color: white;
-    padding: 10px 20px;
     border-radius: 10px;
+    padding: 10px 20px;
 }
