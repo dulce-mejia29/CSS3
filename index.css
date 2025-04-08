@@ -1,8 +1,8 @@
 .container {
-    width: 80%;
-    height: 400px;
     background: 
-        url('noche\ bonita.jpg') no-repeat 90% 80%,
-        url('tulipanes.jpg') no-repeat center / cover;
     background-clip: padding-box;
+    height: 400px;
+    url('noche\ bonita.jpg') no-repeat 90% 80%,
+    url('tulipanes.jpg') no-repeat center / cover;
+    width: 80%;
 }
